@@ -3,7 +3,7 @@
 
 ###### ICS3U - Mr. J
 
-There is a web-lesson [on my website](https://www.brash.ca/ics3uc/4/3) with a brief explanation and lots of links to amazing resources.
+There is a web-lesson [on my website](https://sites.google.com/ocsb.ca/ics3u-ash/units/unit-7-html/7-3-organization) with a brief explanation and lots of links to amazing resources.
 
 - [Part 1: Organization](#part-1-organization)
 - [Part 2: Style (CSS)](#part-2-style-css)
@@ -70,6 +70,6 @@ Over the next couple classes you are going to create a website with multiple pag
 
 <center>
 
-![HTML5 Logos](images/readme/html5_small.png)
+![HTML5 Logos](images/html5_small.png)
 
 </center>
