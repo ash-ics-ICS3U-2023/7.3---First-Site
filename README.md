@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Jrk_C-hp)
 # 4.3 Organization & Style
 
-###### ICS3U - Mr. Brash 🐿️
+###### ICS3U - Mr. J
 
 There is a web-lesson [on my website](https://www.brash.ca/ics3uc/4/3) with a brief explanation and lots of links to amazing resources.
 
