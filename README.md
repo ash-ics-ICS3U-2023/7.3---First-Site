@@ -11,7 +11,7 @@ There is a web-lesson [on my website](https://www.brash.ca/ics3uc/4/3) with a br
 
 ## Part 1: Organization
 
-![File Organization Chart](images/readme/file_org.png)
+![File Organization Chart](images/file_org.png)
 
 Organizing your files in any situation is important - in a web server it's even _more_ important. It can reduce confusion, create better security, and helps if you're working in a team.
 
